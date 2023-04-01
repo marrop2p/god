@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
