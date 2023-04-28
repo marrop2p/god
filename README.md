@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Link checks SSL insecure robustness (#7853)
