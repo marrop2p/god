@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
