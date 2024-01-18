@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Hold failed upload metrics and upload with next upload metrics (#8513)
