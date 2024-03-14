@@ -1,1 +1,1 @@
-fix val each epoch
+Update CITATION.cff with cffinit corrections (#8658)
