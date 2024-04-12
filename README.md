@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
